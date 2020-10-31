@@ -1,0 +1,2 @@
+ru/skillbranch/devintensive/BuildConfig.java
+ ru.skillbranch.devintensive.BuildConfig
